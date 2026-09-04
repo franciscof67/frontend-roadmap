@@ -1,2 +1,20 @@
 # frontend-roadmap
 This repository contains front-end projects built following the roadmap.sh front-end developer path.
+── 01-single-page-cv
+ ├── 02-basic-html-website
+ ├── 03-personal-portfolio
+ ├── 04-changelog-component
+ ├── 05-testimonial-cards
+ ├── 06-datepicker-ui
+ ├── 07-accessible-form-ui
+ ├── 08-image-grid-layout
+ ├── 09-tooltip-ui
+ ├── 10-simple-tabs
+ ├── 11-cookies-consent
+ ├── 12-restricted-textarea
+ ├── 13-accordion-ui
+ ├── 14-custom-dropdown
+ ├── 15-task-tracker
+ ├── 16-github-random-repo
+ ├── 17-reddit-client
+ ├── 18-temperature-converter
